@@ -1,0 +1,27 @@
+.container {
+    background-color: #444950;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+    color: #ffffff;
+    margin: 0 auto; /* Center the container horizontally */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center the container vertically and horizontally */
+  }
+  
+  .container h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #61dafb;
+  }
+  
+  .container p {
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
